@@ -15,7 +15,7 @@ To share an image:
 2. Select the **Send Media** button
 3. Pick an image
 
-![](//placehold.it/800x600)
+![](/uploads/versions/screen-shot-2017-02-23-at-9-34-15-am---x30-0-1109-832-800-600x---.png)
 
 Supported types:
 
