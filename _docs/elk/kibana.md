@@ -4,7 +4,8 @@ category: elk
 order: 2
 ---
 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
+
+寫你第一個 Kibana plugins
 
 To share a video:
 
