@@ -1,7 +1,7 @@
 ---
-title: Documents
-category: Media
-order: 3
+title: 文件 
+category: 技術支援
+order: 1
 ---
 
 Share documents with your friends! Send work or school projects from your computer or phone.
