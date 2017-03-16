@@ -1,7 +1,7 @@
 ---
-title: Video
-category: Media
-order: 2
+title: iPOC-效能分析軟體
+category: 產品
+order: 1 
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.
@@ -12,6 +12,6 @@ To share a video:
 2. Select the **Send Media** button
 3. Pick a video or paste a YouTube link
 
-> Videos can use up a lot of bandwidth so be aware of your mobile data.
+> iPOC 幫您找出系統的問題.
 
 ![](//placehold.it/800x600)
