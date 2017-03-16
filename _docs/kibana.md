@@ -1,7 +1,7 @@
 ---
-title: kibana
-category: elk
-order: 2
+title: Kibana Plugin - Alert
+category: 產品
+order: 3
 ---
 
 
