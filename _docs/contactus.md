@@ -4,6 +4,9 @@ category: 我們是誰
 order: 2
 ---
 
-> Contact Info: 0910-006-662 Mr. Wang 
 
-[Log4analytics.com](http://log4analytics.com)
+> 業務聯絡人：0982-177-817 陳先生
+
+[nmons.com](http://www.nmons.com/ibm/)
+
+急先鋒
