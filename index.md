@@ -1,5 +1,5 @@
 ---
-title: Welcome2
+title: Welcome
 ---
 
 
@@ -7,7 +7,7 @@ title: Welcome2
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started
+# Getting Started
 
 Getting a message sent is quick and easy with ChatApp:
 
