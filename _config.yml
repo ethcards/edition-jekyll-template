@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: 急先鋒
+title: 桐立科技, Log4 Analytics
 url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -15,9 +15,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: 急先鋒
+  name: Log4analytics.com
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - http://log4analytics.com
 
 # -----
 # Build

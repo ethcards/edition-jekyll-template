@@ -5,7 +5,7 @@ order: 3
 ---
 
 
-寫你第一個 Kibana plugins
+> 當有人入侵你網站時 Kibana Alert 會通知你
 
 To share a video:
 
