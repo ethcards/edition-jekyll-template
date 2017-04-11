@@ -4,16 +4,11 @@ category: 我們是誰
 order: 1
 ---
 
-> TurboTeam 顧問群 
+
+> TurboTeam 顧問群
 
 目前有以下幾項產品與技術研究方向:
 
-*iPOC
-*Elasticsearch
-*Logstash
-*Kibana
-*Beats
+\*iPOC \*Elasticsearch \*Logstash \*Kibana \*Beats
 
-
-![](/uploads/versions/screen-shot-2017-02-23-at-9-34-15-am---x30-0-1109-832-800-600x---.png)
-
+![](/uploads/versions/screen-shot-2017-04-02-at-11-32-32-pm---x202-0-869-836-580-558x---.png)
