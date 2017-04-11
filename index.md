@@ -3,32 +3,36 @@ title: 首頁
 ---
 
 
-#### 如何用 logstash 收集 rsyslog 的資料
+#### &nbsp;
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+## **桐立科技**
 
-# Getting Started
+旗下 log4analytics.com 是一家以人工智慧研發為核心技術之資料分析協力廠商, 致力於提供中小企業最物美價廉之 資料收集, 視覺化分析, 自動預警等服務.
 
-Getting a message sent is quick and easy with ChatApp:
+> 產品一：Web 網站資料收集
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+### 功能
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+集中收集網站使用狀態與系統資訊, 提供管理者或軟體開發商進行效能評估以及錯誤分析; 支援微軟 IIS, Apache, 或 Nginx 等網路伺服器.
 
-### Features
+* ### 支援多台 Web Cluster 同時進行分析
+* 利用世界地圖顯示用互聯網分布狀態
+* 即時顯示404, 500等錯誤次數, 以及連線時間愈時次數
+* 顯示造成最長反應時間網頁, 以及程式的分佈圖
+* 即時顯示連線人數與統計資料
 
-Explore more of ChatApp by reading about our features:
+### 特性
 
-#### Media
+&nbsp;
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+* #### 無 Internet 連線, 也能安裝
 
-#### Contact Syncing
+企業軟體與資料庫配合網頁分析資料, 不變連接 Internet, 也能安裝.
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+* #### Docker 化管理
 
-#### Devices
+應映 DevOps 自動化的時代來臨, 可選擇使用 docker 化安裝, 快速又方便管理.
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+* #### 客製化戰情室畫面
+
+可隨客戶需要自行修改戰情室畫面及內容.
