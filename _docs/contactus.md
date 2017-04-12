@@ -11,7 +11,7 @@ order: 2
 
 急先鋒
 
-> 業務聯絡人：0931-031-608 王先生
+> 業務聯絡人：0931-031-608 王銘德
 
 [log4analytics.com](http://log4analytics.com)
 
